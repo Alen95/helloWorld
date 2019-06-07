@@ -1,0 +1,3 @@
+tasks:
+    - command: echo Terminal
+      name: test
